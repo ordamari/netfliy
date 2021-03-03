@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Netfliy/static/js/main.ed3f075a.chunk.js",
+    "main.js.map": "/Netfliy/static/js/main.ed3f075a.chunk.js.map",
+    "runtime-main.js": "/Netfliy/static/js/runtime-main.7d3113d8.js",
+    "runtime-main.js.map": "/Netfliy/static/js/runtime-main.7d3113d8.js.map",
+    "static/css/2.679831fc.chunk.css": "/Netfliy/static/css/2.679831fc.chunk.css",
+    "static/js/2.151376eb.chunk.js": "/Netfliy/static/js/2.151376eb.chunk.js",
+    "static/js/2.151376eb.chunk.js.map": "/Netfliy/static/js/2.151376eb.chunk.js.map",
+    "index.html": "/Netfliy/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/Netfliy/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.151376eb.chunk.js.LICENSE.txt": "/Netfliy/static/js/2.151376eb.chunk.js.LICENSE.txt",
+    "static/media/logo2.a8015f15.png": "/Netfliy/static/media/logo2.a8015f15.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d3113d8.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.151376eb.chunk.js",
+    "static/js/main.ed3f075a.chunk.js"
+  ]
+}
