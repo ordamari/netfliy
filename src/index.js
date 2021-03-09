@@ -8,10 +8,10 @@ import { FirebaseContext } from './context/firebase';
 
 render(
     <>
-        <FirebaseContext.Provider value={{ firebase }}>
-            <GlobalStyles />
-            <App />
-        </FirebaseContext.Provider>
+            <FirebaseContext.Provider value={{ firebase }}>
+                <GlobalStyles />
+                <App />
+            </FirebaseContext.Provider>
     </>,
     document.getElementById('root'));
 
