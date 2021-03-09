@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Netfliy/static/js/main.ed3f075a.chunk.js",
-    "main.js.map": "/Netfliy/static/js/main.ed3f075a.chunk.js.map",
+    "main.js": "/Netfliy/static/js/main.d71ea80f.chunk.js",
+    "main.js.map": "/Netfliy/static/js/main.d71ea80f.chunk.js.map",
     "runtime-main.js": "/Netfliy/static/js/runtime-main.7d3113d8.js",
     "runtime-main.js.map": "/Netfliy/static/js/runtime-main.7d3113d8.js.map",
     "static/css/2.679831fc.chunk.css": "/Netfliy/static/css/2.679831fc.chunk.css",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.7d3113d8.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.151376eb.chunk.js",
-    "static/js/main.ed3f075a.chunk.js"
+    "static/js/main.d71ea80f.chunk.js"
   ]
 }
