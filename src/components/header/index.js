@@ -22,14 +22,14 @@ Header.Dropdown = function HeaderDropdown({ children, ...restProps }) {
 }
 
 Header.Picture = function HeaderPicture({ src, ...restProps }) {
-    return <Picture {...restProps} src={`images/users/${src}.png`} />
+    return <Picture {...restProps} src={`${process.env.PUBLIC_URL}/images/users/${src}.png`} />
 }
 
 Header.Search = function HeaderSearch({ searchTerm, setSearchTerm, ...restProps }) {
     const [searchActive, setSearchActive] = useState(false);
     return <Search {...restProps}  >
         <SearchIcon onClick={() => { setSearchActive(searchActive => !searchActive) }} >
-            <img src="images/icons/search.png" alt="Search" />\
+            <img src={`${process.env.PUBLIC_URL}/images/icons/search.png`} alt="Search" />\
         </SearchIcon>
         <SearchInput value={searchTerm} onChange={({ target }) => setSearchTerm(target.value)} placeholder="Search films and series" active={searchActive} />
     </Search>

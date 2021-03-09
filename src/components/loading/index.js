@@ -5,7 +5,7 @@ export default function Loading({ src, ...restProps }) {
     return (
         <Spinner {...restProps}>
             <LockBody />
-            <Picture src={`/Images/users/${src}.png`} />
+            <Picture src={`${process.env.PUBLIC_URL}/Images/users/${src}.png`} />
         </Spinner>
     )
 }
