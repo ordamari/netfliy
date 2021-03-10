@@ -8,8 +8,6 @@ export default function App() {
   const { user } = useAuthListener();
 
   return (
-    <>
-    <h1>hisajdniopasjmdmasd</h1>
       <Router>
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.SIGN_IN} exact >
           <Signin />
@@ -24,6 +22,5 @@ export default function App() {
           <Browse />
         </ProtectedRoute>
       </Router>
-    </>
   );
 }
