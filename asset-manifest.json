@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "./static/js/main.cefa36b5.chunk.js",
-    "main.js.map": "./static/js/main.cefa36b5.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.2f57fb47.js",
-    "runtime-main.js.map": "./static/js/runtime-main.2f57fb47.js.map",
-    "static/css/2.679831fc.chunk.css": "./static/css/2.679831fc.chunk.css",
-    "static/js/2.758ac4ab.chunk.js": "./static/js/2.758ac4ab.chunk.js",
-    "static/js/2.758ac4ab.chunk.js.map": "./static/js/2.758ac4ab.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.679831fc.chunk.css.map": "./static/css/2.679831fc.chunk.css.map",
-    "static/js/2.758ac4ab.chunk.js.LICENSE.txt": "./static/js/2.758ac4ab.chunk.js.LICENSE.txt",
-    "static/media/logo2.a8015f15.png": "./static/media/logo2.a8015f15.png"
+    "main.js": "/netfliy/static/js/main.f90b760a.chunk.js",
+    "main.js.map": "/netfliy/static/js/main.f90b760a.chunk.js.map",
+    "runtime-main.js": "/netfliy/static/js/runtime-main.a6ceb24f.js",
+    "runtime-main.js.map": "/netfliy/static/js/runtime-main.a6ceb24f.js.map",
+    "static/css/2.679831fc.chunk.css": "/netfliy/static/css/2.679831fc.chunk.css",
+    "static/js/2.855a3e05.chunk.js": "/netfliy/static/js/2.855a3e05.chunk.js",
+    "static/js/2.855a3e05.chunk.js.map": "/netfliy/static/js/2.855a3e05.chunk.js.map",
+    "index.html": "/netfliy/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/netfliy/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.855a3e05.chunk.js.LICENSE.txt": "/netfliy/static/js/2.855a3e05.chunk.js.LICENSE.txt",
+    "static/media/logo2.a8015f15.png": "/netfliy/static/media/logo2.a8015f15.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f57fb47.js",
+    "static/js/runtime-main.a6ceb24f.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.758ac4ab.chunk.js",
-    "static/js/main.cefa36b5.chunk.js"
+    "static/js/2.855a3e05.chunk.js",
+    "static/js/main.f90b760a.chunk.js"
   ]
 }
