@@ -8,7 +8,7 @@ export default function App() {
   const { user } = useAuthListener();
 
   return (
-    <Router basename={'/'} >
+    <Router basename={process.env.PUBLIC_URL} >
       <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.SIGN_IN} exact >
         <Signin />
       </IsUserRedirect>
